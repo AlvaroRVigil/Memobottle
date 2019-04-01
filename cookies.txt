@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.memobottle.eu.com	TRUE	/	FALSE	1999999999	_shopify_y	607af945-c15f-409a-9481-06a129f86bee
+www.memobottle.eu.com	TRUE	/	FALSE	1999999999	_landing_page	%2Fpages%2Fthe-memobottle-story
+.static.zdassets.com	TRUE	/	FALSE	1999999999	__cfduid	d14c24cea5a2eda295fa9f8c27add8d1d1554105927
+www.memobottle.eu.com	TRUE	/	FALSE	1999999999	cart_ts	1554105976
+www.memobottle.eu.com	TRUE	/	FALSE	1999999999	cart	bf4156c2a5b24b02ee1b404d2d5602ab
+
