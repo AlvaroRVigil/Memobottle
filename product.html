@@ -11,32 +11,28 @@
 </head>
 
 <body>
-      <div class="nav-bar">
-        <div class=burger>
-            <a href="index.html">
+        <div class="nav-bar">
+        <div class="burger">
+            <a href="index.html" class=lanzador-menu id="enlace-menu">
                 <i class="fas fa-bars"></i>
             </a></div>
         
-        <div class=logo>
+        <div class="cart">
+            <a href="/cart" class="site-header__cart-toggle js-drawer-open-right-link" aria-controls="CartDrawer" aria-expanded="false"></a>
+                        <i class="fa fa-shopping-cart fa-lg"></i></div>
+        
+        <div>
             <a href="index.html">
                 <img src="img/logo.png">
             </a></div>
         
-        <div class="top-links">
+        
+        <div id="menu" class="navegacion">
             <ul class="site-nav">
-
-                <li>
-                     <a href="index.html">
-                        Shop
-                    </a>
-                </li>
-                <li>
-                    <a href="story.html">Story</a>
-                </li>
-
-                <li>
-                    <a>The Nourishment</a>
-                </li>
+                
+                <li><a href="index.html">Shop</a></li>
+                <li><a href="story.html">Story</a></li>
+                <li><a href="story.html">The Nourishment</a></li>
 
             </ul>
 
@@ -58,21 +54,16 @@
 
                 <li>
                     <a href="/search" class="search-button">
-                        <i></i>
+            <i class="fas fa-search fa-lg"></i>
                     </a>
                 </li>
 
-                <li>
-                    <a href="/cart" class="site-header__cart-toggle js-drawer-open-right-link" aria-controls="CartDrawer" aria-expanded="false">
-                        <i class="fa fa-shopping-cart fa-lg"></i>
-                        <span class="site-header__cart-indicator hide"></span>
-                    </a>
-                </li>
 
             </ul>
         </div>
 
     </div>
+
 
     <div class="helpbutton">
 
@@ -264,6 +255,7 @@
         </div>
 
     </footer>
+    		<script src="js/javascript.js"></script>
 </body>
 
 
